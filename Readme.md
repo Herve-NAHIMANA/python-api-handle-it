@@ -46,6 +46,3 @@ kubectl apply -f manifest-k8s
 * Télécharger les rôles
 ```sh
 ansible-galaxy install -r requirements.yml -p ./roles
-```
-## Tester jenkins
-##Tester jenkins pour la deuxième fois
